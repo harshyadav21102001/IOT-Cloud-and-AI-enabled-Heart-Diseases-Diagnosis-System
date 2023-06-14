@@ -1,0 +1,2 @@
+# IOT-Cloud-and-AI-enabled-Heart-Diseases-Diagnosis-System
+The recent advancements in Internet of Things (IoT), cloud computing, and Artiﬁcial Intel-ligence (AI) transformed the conventional healthcare system into smart healthcare. By incorporating keytechnologies such as IoT and AI, medical services can be improved. The convergence of IoT and AI offersdifferent opportunities in healthcare sector.
